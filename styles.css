@@ -1,0 +1,19 @@
+.heading{
+    color: rgb(102, 19, 180);
+}
+.tableheading{
+    background-color: rgb(64, 151, 64);
+}
+.headingcolor{
+    color: white;
+}
+.datafont{
+    color: rgb(65, 57, 57);
+    background-color: blanchedalmond;
+}
+#tablecontainer{
+    text-align: center;
+}
+p{
+    color: blue;
+}
